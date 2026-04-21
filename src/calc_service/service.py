@@ -10,3 +10,4 @@ def divide(a: float, b: float) -> float:
 
 def healthcheck() -> dict:
     return {"status": "ok", "service": "calc-service"}
+    
